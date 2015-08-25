@@ -1,0 +1,22 @@
+The majority of textures in this texturepack are directly derived from
+the minecraft texturepack by Doku, and are licenced as follows:
+
+As I'm not going to be updating this pack for the foreseeable future
+ ( I have my reasons :smile.gif: ), I hereby give anyone who wants to 
+ use my textures, permission to do so. If you do choose to use any of my
+  textures, please credit me clearly on your front page and provide a 
+  link to this thread. Thanks.
+  
+  Original minecraftforums thread:
+	http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1225753-32x-1-7-x-dokucraft-2-5-free-to-use
+  
+ Source - http://www.minecraftforum.net/members/doku/posts?page=3
+ 
+ 
+ Any additions or modifications by me (Qwertymine3) are licenced under
+ the CC0 1.0 Universal Licence
+ 
+ https://creativecommons.org/publicdomain/zero/1.0/legalcode
+ 
+ Readable version
+ https://creativecommons.org/publicdomain/zero/1.0/
